@@ -8,7 +8,7 @@
 
 
 ## Trello clone app
-Bundled within the repo is an app that is a clone of a popular [Trello app](https://trello.com). You can create boards, lists and cards. You can drag and drop cards between tests or even upload a picture to the card detail. There’s also a very simple signup and login which will allow you to create private boards
+Bundled within the repo is an app that is a clone of a popular [Trello app](https://trello.com), developed by [Filip Hric](https://filiphric.com/). You can create boards, lists and cards. You can drag and drop cards between tests or even upload a picture to the card detail. There’s also a very simple signup and login which will allow you to create private boards
 
 ### Installation
 Super simple
